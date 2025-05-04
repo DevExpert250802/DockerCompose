@@ -25,7 +25,7 @@ _NOTE: creating docker-network in optional. You can start both containers in a d
 
 Step 1: start mongodb and mongo-express
 
-    docker-compose -f docker-compose.yaml up
+    docker compose -f mongo-services.yaml up
     
 _You can access the mongo-express under localhost:8081 from your browser_
     
