@@ -27,7 +27,7 @@ Step 1: start mongodb and mongo-express
 
     docker-compose -f docker-compose.yaml up
     
-_You can access the mongo-express under localhost:8080 from your browser_
+_You can access the mongo-express under localhost:8081 from your browser_
     
 Step 2: open mongo-express from browser
 
